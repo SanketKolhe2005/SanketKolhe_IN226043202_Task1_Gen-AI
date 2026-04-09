@@ -1,84 +1,93 @@
-# 🚀 Prompt Engineering using LangChain
+# ASSIGNMENT GenAI – Prompt Engineering (LangChain Prompt Templates)
 
-## 📌 Internship Task
+## 📌 Project Title
 
-**Data Science Internship – February 2026**
-
-**Task 1: Prompt Engineering (LangChain Prompt Templates)**
+Mini Prompt Engine using LangChain
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-* **Name:** Sanket Kolhe
-* **Intern ID:** IN226043202
+Sanket Kolhe
 
----
+## 📅 Internship
 
-## 📖 Project Overview
-
-This project demonstrates the use of **Prompt Engineering** using LangChain.
-
-We create dynamic and reusable prompt templates for different use cases.
+Data Science Internship – February 2026
 
 ---
 
 ## 🎯 Objective
 
-* Understand Prompt Engineering concepts
-* Learn how to use `PromptTemplate` in LangChain
-  
-* Build reusable and dynamic prompts
+The objective of this assignment is to build a dynamic and reusable prompt system using LangChain instead of hardcoded prompts.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🚀 Features Implemented
 
-* Python 🐍
+* ✅ Replaced hardcoded prompts using PromptTemplate
+  
+* ✅ Built multi-input prompt system (topic, audience, tone)
+  
+* ✅ Created prompt variations (teaching, interview, storytelling)
+  
+* ✅ Implemented ChatPromptTemplate with different roles
+  
+* ✅ Added input validation layer
+  
+* ✅ Developed dynamic prompt generator function
+  
+* ✅ Tested template reusability with multiple inputs
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
   
 * LangChain
   
 * Jupyter Notebook / Google Colab
 
 ---
-## 🔥 Implemented Examples
 
-### ✅ 1. Summary Generator
+## 🧩 Tasks Covered
 
-Generates a short summary for a given topic.
+1. Replace Hardcoded Prompts
+   
+3. Multi-Input Prompt System
 
-### ✅ 2. Question Answering
+4. Prompt Variations Engine
 
-Answers user-defined questions.
+5. ChatPromptTemplate System
 
-### ✅ 3. Email Generator
+6. Input Validation Layer
 
-Creates professional emails based on purpose.
+7. Prompt Generator App
 
-### ✅ 4. Multi-Input Prompt (Bonus)
-
-Handles multiple input variables.
+8. Template Reusability Test
 
 ---
 
-## 📌 Key Learnings
+## 🔄 Project Workflow
 
-* Understanding of prompt design
+User Input → Validation → Prompt Template → Dynamic Prompt Generation → Output
+
+---
+
+## ✅ Key Learnings
+
+* Understanding of PromptTemplate in LangChain
   
-* Use of LangChain PromptTemplate
+* Designing reusable prompt systems
   
-* Creating flexible AI prompts
+* Building structured and dynamic prompts
+  
+* Handling input validation
+  
+* Creating modular prompt pipelines
 
 ---
 
-## 📢 Conclusion
+## ⭐ Final Note
 
-Prompt Engineering is a crucial skill in Generative AI.
-
-This project demonstrates how structured prompts can improve AI outputs.
-
----
-
-## ⭐ Acknowledgment
-
-Thanks to the internship program for providing this opportunity to learn and implement Generative AI concepts.
+This project demonstrates how to move from static prompts to dynamic prompt engineering, which is an essential skill in real-world Generative AI applications.
