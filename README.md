@@ -74,7 +74,6 @@ Handles multiple input variables.
 ## 📢 Conclusion
 
 Prompt Engineering is a crucial skill in Generative AI.
-
 This project demonstrates how structured prompts can improve AI outputs.
 
 ---
